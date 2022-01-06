@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318075725947",
+    "project_id": "whatsapp-ddca7",
+    "storage_bucket": "whatsapp-ddca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318075725947:android:71740e5111dd1bcbd89ade",
+        "android_client_info": {
+          "package_name": "com.modernapps.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318075725947-akjit7m0g67vl2rkh2u90ohho6j1a1fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPaYn6msr8c-f1pOlW0u9jTShgBbi5JPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318075725947-akjit7m0g67vl2rkh2u90ohho6j1a1fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
